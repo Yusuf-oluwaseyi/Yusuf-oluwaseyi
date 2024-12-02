@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yusuf-oluwaseyi
 - 👀 I’m interested in Front-end Development and Web3
-- 🌱 I’m currently learning React & Web3
-- 💞️ I’m looking to collaborate on any open projects
+- I'm currently practicing cybersecurity with my knowledge of web development
+- ISO/IEC 27001 Certified
+- GRC analyst.
 - 📫 How to reach me Twitter @xeyiToba
 
 <!---
